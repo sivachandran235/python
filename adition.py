@@ -1,5 +1,5 @@
 a=500
-b=20
+b=200
 c=a+b
 d=c
 print(d)
